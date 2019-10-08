@@ -1,1 +1,3 @@
-# Numpy-Practice
+# Numpy
+## Numpy Practice Exercise
+
