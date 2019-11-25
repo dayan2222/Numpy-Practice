@@ -9,3 +9,10 @@
 6. Np.where
 7. Mathematical & Statistical Methods
 8. File Input & Output
+9. Linear Algebra Function 
+10. Pseudo Random Numbers 
+11. Numpy Advance Array Multiplications
+12. Reshape
+13. Concatenate
+14. Split
+15. Tile & Repeat
